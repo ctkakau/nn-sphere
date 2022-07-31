@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{KingmaBa2015}
+D.P. Kingma and J.L. Ba,
+\newblock ``Adam: A method for stochastic optimization,''
+\newblock in {\em Published as a conference paper at ICLR 2015}. ICLR, 2015,
+  pp. 1--15.
+
+\bibitem{samek2021explaining}
+Wojciech Samek, Gregoire Montavon, Sebastian Lapuschkin, Christopher~J Anders,
+  and Klaus-Robert Muller,
+\newblock ``Explaining deep neural networks and beyond: A review of methods and
+  applications,''
+\newblock {\em Proceedings of the IEEE}, vol. 109, no. 3, pp. 247--278, 2021.
+
+\bibitem{Goodfellow-et-al-2016}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville,
+\newblock {\em Deep Learning},
+\newblock MIT Press, 2016,
+\newblock \url http://www.deeplearningbook.org.
+
+\bibitem{bottou2007tradeoffs}
+Leon Bottou and Olivier Bousquet,
+\newblock ``The tradeoffs of large scale learning,''
+\newblock {\em Advances in neural information processing systems}, vol. 20,
+  2007.
+
+\bibitem{bottou2012stochastic}
+Leon Bottou,
+\newblock ``Stochastic gradient descent tricks,''
+\newblock in {\em Neural networks: Tricks of the trade}, pp. 421--436.
+  Springer, 2012.
+
+\end{thebibliography}
